@@ -1,6 +1,8 @@
-$body-color: slateblue;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+$body-color: #0d47a1;
 
 body {
   color: $body-color;
-  font-family: sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
